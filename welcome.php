@@ -17,7 +17,7 @@
         echo "<p>Today's date is: $date</p>";
         ?>
         <p>We're glad you're here. Explore our content and discover something new!</p>
-        <button><a href="./index.php"></a>Go Back</button>
+        <button onclick="window.location = './index.php'">Go Back</button>
     </div>
 </body>
 
